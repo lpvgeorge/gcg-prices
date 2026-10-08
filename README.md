@@ -1,1 +1,1 @@
-# gcg-prices
+Daily Gundam Card Game prices for the Loopville GCG app. Prices: TCGplayer market prices via TCGCSV. Exchange rates: Source: ECB statistics. Updated automatically; please don't edit prices.json by hand.
